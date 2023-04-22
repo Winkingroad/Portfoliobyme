@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e81fc5de.css",
+    "main.js": "/static/js/main.d1af65cf.js",
+    "static/media/site-bg.jpg": "/static/media/site-bg.7a7e9f8140613966078a.jpg",
+    "static/media/about.png": "/static/media/about.2731160b0fe62141f403.png",
+    "static/media/avatar.png": "/static/media/avatar.2731160b0fe62141f403.png",
+    "static/media/services.png": "/static/media/services.8e66d4fbbd95de45b8db.png",
+    "static/media/Resume.pdf": "/static/media/Resume.f38011feb2a27412210f.pdf",
+    "static/media/rota.png": "/static/media/rota.21c5e503009519e56514.png",
+    "static/media/logo.ico": "/static/media/logo.cc23c6da04719592d0ec.ico",
+    "static/media/jyc.png": "/static/media/jyc.c09a74b1f8d620bf2d81.png",
+    "index.html": "/index.html",
+    "main.e81fc5de.css.map": "/static/css/main.e81fc5de.css.map",
+    "main.d1af65cf.js.map": "/static/js/main.d1af65cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e81fc5de.css",
+    "static/js/main.d1af65cf.js"
+  ]
+}
